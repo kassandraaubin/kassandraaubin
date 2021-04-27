@@ -2,17 +2,6 @@
 
 <!--
 **kassandraaubin/kassandraaubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <h3>💻 &nbsp;About Me</h3>
@@ -20,7 +9,7 @@ Here are some ideas to get you started:
 <img src="https://www.pngkey.com/png/full/226-2269266_slytherin-crest-png-harry-potter-slytherin-logo.png" alt="Slytherin" title="Or perhaps in Slytherin,
 You'll make your real friends,
 Those cunning folk use any means,
-To achieve their ends." width="250px"/>
+To achieve their ends." width="150px"/>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Master degree in Public and Politic's Communication.
