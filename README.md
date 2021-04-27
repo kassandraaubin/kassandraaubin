@@ -6,7 +6,7 @@
 
 <h3>💻 &nbsp;About Me</h3>
 
-<img src="https://www.pngkey.com/png/full/226-2269266_slytherin-crest-png-harry-potter-slytherin-logo.png" alt="Slytherin" title="Or perhaps in Slytherin,
+<img src="https://www.pngkey.com/png/full/226-2269266_slytherin-crest-png-harry-potter-slytherin-logo.png" align=right alt="Slytherin" title="Or perhaps in Slytherin,
 You'll make your real friends,
 Those cunning folk use any means,
 To achieve their ends." width="150px"/>
