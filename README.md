@@ -39,13 +39,6 @@ To achieve their ends." width="150px"/>
 
 <br/>
 
-<a href="https://github.com/kassandraaubin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kassandraaubin&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassandraaubin&theme=buefy&layout=compact" />
-</a>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
