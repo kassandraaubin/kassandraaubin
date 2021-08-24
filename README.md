@@ -42,7 +42,7 @@ To achieve their ends." width="150px"/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://kaubin.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://kaubin.netlify.app/-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://kassandra-a.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-https://kaubin.netlify.app/-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/kassandra-aubin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:kassandra.aubin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
 </p>
