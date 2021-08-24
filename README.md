@@ -11,7 +11,7 @@ You'll make your real friends,
 Those cunning folk use any means,
 To achieve their ends." width="150px"/>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Master degree in Public and Politic's Communication.
 - 🎓 &nbsp; Web developer Certification.
 - 💼 &nbsp; At first web editor and internal communication manager, I now am Working as a digital trainer (web dev).
