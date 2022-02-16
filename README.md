@@ -4,11 +4,10 @@
 **kassandraaubin/kassandraaubin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h3>💻 &nbsp;About Me</h3>
-<img src="https://www.pngkey.com/png/full/226-2269266_slytherin-crest-png-harry-potter-slytherin-logo.png" align=center alt="Slytherin" title="Or perhaps in Slytherin,
+<h3>💻 &nbsp;About Me</h3> <img src="https://www.pngkey.com/png/full/226-2269266_slytherin-crest-png-harry-potter-slytherin-logo.png" align=right alt="Slytherin" title="Or perhaps in Slytherin,
 You'll make your real friends,
 Those cunning folk use any means,
-To achieve their ends." width="100px"/>
+To achieve their ends." width="90px"/>
 
 <a href="https://app.daily.dev/Kass"><img src="https://api.daily.dev/devcards/5dcf51fa09534afb921b051d69f64b1e.png?r=dpq" align=right width="300" alt="Kass's Dev Card"/></a>
 
